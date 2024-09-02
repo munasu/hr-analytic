@@ -1,0 +1,351 @@
+"employee id","leave type","start date","end date",location
+264,"Unpaid Leave",2024-02-25,2024-03-02,Bangkok
+166,"Annual Leave",2023-11-10,2023-11-16,Hatyai
+8,"Unpaid Leave",2024-05-24,2024-06-19,"Chiang Mai"
+284,"Annual Leave",2024-02-02,2024-02-07,Hatyai
+115,"Unpaid Leave",2024-04-23,2024-05-20,"Chiang Mai"
+184,"Unpaid Leave",2023-08-30,2023-09-14,Hatyai
+212,"Sick Leave",2023-10-04,2023-10-27,Hatyai
+42,"Unpaid Leave",2024-01-18,2024-02-07,"Chiang Mai"
+183,"Annual Leave",2024-02-16,2024-02-26,"Khon Kaen"
+221,"Unpaid Leave",2024-05-04,2024-05-17,Hatyai
+20,"Sick Leave",2024-05-13,2024-05-20,"Khon Kaen"
+195,"Unpaid Leave",2024-08-20,2024-08-20,"Khon Kaen"
+175,"Annual Leave",2024-05-10,2024-06-08,"Chiang Mai"
+294,"Unpaid Leave",2023-12-06,2023-12-10,Hatyai
+303,"Annual Leave",2024-07-12,2024-07-31,"Khon Kaen"
+180,"Unpaid Leave",2024-04-08,2024-05-05,Bangkok
+103,"Unpaid Leave",2023-09-26,2023-10-18,Bangkok
+92,"Annual Leave",2024-08-12,2024-08-23,"Khon Kaen"
+110,"Sick Leave",2024-05-27,2024-06-10,"Khon Kaen"
+218,"Sick Leave",2023-10-31,2023-11-10,Bangkok
+155,"Sick Leave",2024-01-27,2024-02-08,"Chiang Mai"
+129,"Sick Leave",2023-12-24,2024-01-16,"Khon Kaen"
+219,"Annual Leave",2024-04-09,2024-05-06,"Khon Kaen"
+2,"Sick Leave",2023-09-20,2023-10-02,"Chiang Mai"
+145,"Sick Leave",2023-09-19,2023-10-14,Hatyai
+131,"Sick Leave",2024-07-07,2024-07-07,"Khon Kaen"
+86,"Annual Leave",2023-09-16,2023-09-29,"Chiang Mai"
+214,"Sick Leave",2023-10-23,2023-10-27,"Khon Kaen"
+59,"Unpaid Leave",2024-01-28,2024-02-23,Hatyai
+78,"Unpaid Leave",2023-12-27,2023-12-31,Hatyai
+305,"Unpaid Leave",2023-09-07,2023-10-05,"Chiang Mai"
+164,"Annual Leave",2023-08-28,2023-09-03,"Khon Kaen"
+161,"Sick Leave",2024-07-30,2024-08-02,"Chiang Mai"
+328,"Sick Leave",2024-07-27,2024-08-02,Bangkok
+113,"Sick Leave",2024-08-20,2024-09-09,"Chiang Mai"
+143,"Unpaid Leave",2024-06-15,2024-06-24,"Khon Kaen"
+307,"Sick Leave",2024-01-08,2024-01-16,"Chiang Mai"
+224,"Unpaid Leave",2023-09-01,2023-09-12,"Chiang Mai"
+11,"Sick Leave",2024-02-06,2024-02-18,Hatyai
+83,"Annual Leave",2024-08-11,2024-08-23,"Chiang Mai"
+268,"Annual Leave",2023-11-17,2023-12-06,"Khon Kaen"
+224,"Annual Leave",2023-10-08,2023-10-17,"Khon Kaen"
+312,"Sick Leave",2023-08-24,2023-08-27,"Chiang Mai"
+247,"Unpaid Leave",2024-07-12,2024-07-13,Hatyai
+154,"Annual Leave",2024-02-13,2024-02-17,Hatyai
+103,"Sick Leave",2024-05-06,2024-05-11,"Khon Kaen"
+217,"Annual Leave",2024-06-22,2024-07-10,Hatyai
+53,"Unpaid Leave",2023-10-11,2023-11-09,"Khon Kaen"
+122,"Unpaid Leave",2023-09-15,2023-09-17,"Chiang Mai"
+223,"Sick Leave",2023-11-24,2023-12-04,"Chiang Mai"
+241,"Sick Leave",2024-08-18,2024-08-31,Hatyai
+267,"Unpaid Leave",2024-01-10,2024-01-22,"Khon Kaen"
+99,"Annual Leave",2023-11-07,2023-11-28,"Chiang Mai"
+101,"Annual Leave",2024-06-23,2024-06-26,Hatyai
+178,"Sick Leave",2023-08-24,2023-08-24,"Chiang Mai"
+36,"Annual Leave",2024-07-16,2024-07-29,"Chiang Mai"
+346,"Unpaid Leave",2024-06-14,2024-06-23,"Chiang Mai"
+152,"Annual Leave",2024-06-27,2024-06-27,Hatyai
+185,"Annual Leave",2024-07-11,2024-07-12,Hatyai
+57,"Unpaid Leave",2024-05-11,2024-06-03,Bangkok
+95,"Annual Leave",2023-09-29,2023-10-04,"Chiang Mai"
+161,"Annual Leave",2024-06-16,2024-07-01,"Chiang Mai"
+158,"Unpaid Leave",2023-09-06,2023-09-09,"Chiang Mai"
+176,"Sick Leave",2023-09-26,2023-10-23,Bangkok
+343,"Sick Leave",2023-10-02,2023-10-07,"Chiang Mai"
+275,"Sick Leave",2024-08-02,2024-08-08,Bangkok
+301,"Unpaid Leave",2024-03-19,2024-03-24,Bangkok
+226,"Annual Leave",2023-10-22,2023-11-17,"Khon Kaen"
+6,"Annual Leave",2024-07-07,2024-07-31,"Chiang Mai"
+98,"Unpaid Leave",2024-05-07,2024-05-22,Hatyai
+3,"Unpaid Leave",2024-04-19,2024-04-26,"Chiang Mai"
+108,"Unpaid Leave",2024-02-15,2024-02-26,Bangkok
+269,"Annual Leave",2024-03-26,2024-04-15,Hatyai
+210,"Sick Leave",2023-10-05,2023-10-20,"Khon Kaen"
+236,"Unpaid Leave",2024-07-06,2024-07-19,"Khon Kaen"
+199,"Unpaid Leave",2023-11-08,2023-11-08,"Khon Kaen"
+209,"Annual Leave",2023-10-30,2023-11-19,"Chiang Mai"
+217,"Unpaid Leave",2024-04-02,2024-05-01,"Khon Kaen"
+334,"Unpaid Leave",2024-04-27,2024-05-10,Hatyai
+75,"Annual Leave",2023-11-01,2023-11-25,"Khon Kaen"
+303,"Sick Leave",2024-05-20,2024-06-13,"Chiang Mai"
+3,"Annual Leave",2023-12-17,2024-01-08,Bangkok
+38,"Unpaid Leave",2023-11-28,2023-12-12,Bangkok
+284,"Annual Leave",2023-12-09,2023-12-30,"Chiang Mai"
+25,"Annual Leave",2024-02-06,2024-02-23,Bangkok
+220,"Sick Leave",2024-05-24,2024-06-14,"Khon Kaen"
+69,"Unpaid Leave",2024-07-28,2024-08-17,"Khon Kaen"
+92,"Sick Leave",2024-04-24,2024-04-30,Bangkok
+321,"Unpaid Leave",2024-05-23,2024-06-08,"Khon Kaen"
+201,"Annual Leave",2023-10-25,2023-11-12,"Chiang Mai"
+97,"Sick Leave",2023-11-29,2023-12-04,"Khon Kaen"
+12,"Annual Leave",2024-08-17,2024-08-25,"Chiang Mai"
+341,"Unpaid Leave",2023-09-08,2023-09-22,"Khon Kaen"
+4,"Sick Leave",2023-10-14,2023-11-06,Bangkok
+81,"Unpaid Leave",2023-12-16,2023-12-16,Bangkok
+49,"Annual Leave",2024-07-20,2024-08-02,"Chiang Mai"
+308,"Sick Leave",2023-12-21,2024-01-03,"Khon Kaen"
+167,"Unpaid Leave",2023-12-11,2023-12-25,"Chiang Mai"
+270,"Sick Leave",2024-02-29,2024-03-03,Hatyai
+196,"Unpaid Leave",2023-12-12,2023-12-29,Bangkok
+103,"Unpaid Leave",2023-08-28,2023-09-20,Bangkok
+308,"Unpaid Leave",2024-05-07,2024-05-14,Bangkok
+267,"Annual Leave",2024-05-21,2024-06-17,"Chiang Mai"
+307,"Annual Leave",2024-07-13,2024-07-18,Bangkok
+286,"Annual Leave",2024-07-03,2024-07-25,"Khon Kaen"
+38,"Annual Leave",2024-02-13,2024-02-28,Hatyai
+275,"Sick Leave",2024-01-20,2024-02-05,"Chiang Mai"
+216,"Sick Leave",2023-10-27,2023-11-23,Hatyai
+272,"Annual Leave",2024-06-16,2024-06-16,"Chiang Mai"
+6,"Sick Leave",2024-07-19,2024-08-06,Bangkok
+107,"Annual Leave",2024-01-02,2024-01-02,Hatyai
+145,"Sick Leave",2024-08-15,2024-08-30,Hatyai
+193,"Unpaid Leave",2023-09-08,2023-09-08,"Chiang Mai"
+77,"Annual Leave",2023-12-18,2023-12-25,Hatyai
+36,"Unpaid Leave",2023-11-27,2023-12-17,"Chiang Mai"
+309,"Annual Leave",2024-03-26,2024-04-16,Hatyai
+178,"Annual Leave",2023-09-08,2023-10-05,Hatyai
+206,"Sick Leave",2023-12-03,2023-12-18,"Khon Kaen"
+343,"Annual Leave",2024-04-22,2024-05-20,"Chiang Mai"
+279,"Unpaid Leave",2023-12-29,2024-01-06,"Khon Kaen"
+110,"Unpaid Leave",2023-11-26,2023-12-18,Hatyai
+198,"Unpaid Leave",2024-07-28,2024-08-23,Hatyai
+156,"Annual Leave",2024-08-22,2024-09-03,"Khon Kaen"
+71,"Sick Leave",2023-10-01,2023-10-05,"Chiang Mai"
+174,"Annual Leave",2024-08-14,2024-09-11,Hatyai
+228,"Sick Leave",2023-09-18,2023-10-14,"Chiang Mai"
+115,"Unpaid Leave",2023-12-15,2024-01-08,"Chiang Mai"
+197,"Annual Leave",2023-09-15,2023-09-24,"Chiang Mai"
+28,"Sick Leave",2024-05-06,2024-06-01,Bangkok
+347,"Sick Leave",2024-05-20,2024-05-20,"Chiang Mai"
+313,"Annual Leave",2023-12-30,2024-01-13,"Khon Kaen"
+151,"Unpaid Leave",2023-11-26,2023-11-27,Hatyai
+73,"Sick Leave",2024-04-10,2024-05-04,Hatyai
+89,"Unpaid Leave",2024-01-06,2024-01-20,Hatyai
+255,"Annual Leave",2024-08-08,2024-08-17,"Khon Kaen"
+185,"Unpaid Leave",2023-09-11,2023-09-18,Hatyai
+47,"Unpaid Leave",2024-04-26,2024-05-07,"Chiang Mai"
+237,"Unpaid Leave",2024-07-27,2024-07-31,"Khon Kaen"
+235,"Unpaid Leave",2024-05-05,2024-05-24,Bangkok
+98,"Annual Leave",2024-07-17,2024-08-06,Bangkok
+286,"Sick Leave",2023-12-13,2023-12-15,"Khon Kaen"
+328,"Annual Leave",2024-05-04,2024-05-22,Hatyai
+100,"Annual Leave",2024-06-27,2024-07-12,"Khon Kaen"
+304,"Annual Leave",2024-06-20,2024-07-03,Hatyai
+263,"Unpaid Leave",2023-12-31,2024-01-16,Bangkok
+87,"Unpaid Leave",2024-07-24,2024-08-01,Bangkok
+125,"Unpaid Leave",2023-09-12,2023-09-26,"Chiang Mai"
+334,"Unpaid Leave",2023-11-18,2023-11-27,Bangkok
+239,"Unpaid Leave",2024-06-07,2024-06-13,Hatyai
+287,"Sick Leave",2024-07-25,2024-08-22,Bangkok
+244,"Unpaid Leave",2023-09-28,2023-09-30,Hatyai
+101,"Unpaid Leave",2024-06-23,2024-07-04,"Chiang Mai"
+34,"Sick Leave",2024-08-10,2024-08-24,Bangkok
+140,"Unpaid Leave",2023-12-10,2023-12-27,"Khon Kaen"
+70,"Unpaid Leave",2024-01-18,2024-02-03,Bangkok
+74,"Annual Leave",2024-05-08,2024-05-17,"Khon Kaen"
+246,"Unpaid Leave",2024-08-23,2024-09-07,"Chiang Mai"
+164,"Annual Leave",2024-07-08,2024-07-09,Bangkok
+110,"Annual Leave",2024-05-03,2024-05-09,Bangkok
+178,"Unpaid Leave",2023-10-01,2023-10-07,"Khon Kaen"
+134,"Unpaid Leave",2024-01-22,2024-01-24,Bangkok
+289,"Annual Leave",2024-06-30,2024-06-30,"Chiang Mai"
+315,"Unpaid Leave",2024-07-26,2024-08-21,Bangkok
+255,"Unpaid Leave",2024-02-07,2024-03-07,Bangkok
+348,"Annual Leave",2023-12-17,2023-12-19,"Chiang Mai"
+47,"Sick Leave",2024-08-17,2024-08-27,Bangkok
+278,"Annual Leave",2024-02-22,2024-02-23,"Khon Kaen"
+209,"Sick Leave",2024-05-21,2024-06-08,"Khon Kaen"
+118,"Annual Leave",2024-03-13,2024-03-26,"Chiang Mai"
+204,"Unpaid Leave",2024-05-29,2024-06-27,"Chiang Mai"
+28,"Annual Leave",2024-04-11,2024-04-17,"Khon Kaen"
+299,"Annual Leave",2024-01-16,2024-01-24,"Khon Kaen"
+339,"Unpaid Leave",2024-08-01,2024-08-02,"Khon Kaen"
+286,"Annual Leave",2023-12-12,2023-12-14,Hatyai
+304,"Unpaid Leave",2023-10-20,2023-11-17,"Chiang Mai"
+102,"Sick Leave",2024-02-02,2024-02-06,Hatyai
+20,"Unpaid Leave",2024-07-02,2024-07-09,"Chiang Mai"
+211,"Unpaid Leave",2023-09-15,2023-09-27,"Chiang Mai"
+80,"Unpaid Leave",2024-05-23,2024-06-11,Bangkok
+54,"Sick Leave",2024-03-23,2024-03-31,"Khon Kaen"
+217,"Unpaid Leave",2024-05-02,2024-05-02,"Chiang Mai"
+307,"Annual Leave",2023-09-25,2023-10-24,"Chiang Mai"
+336,"Annual Leave",2023-10-01,2023-10-05,"Chiang Mai"
+108,"Sick Leave",2023-10-13,2023-10-15,"Khon Kaen"
+136,"Sick Leave",2023-12-27,2024-01-03,Bangkok
+80,"Sick Leave",2023-09-20,2023-10-06,Hatyai
+68,"Annual Leave",2024-01-19,2024-02-14,Bangkok
+304,"Annual Leave",2024-02-18,2024-03-15,"Chiang Mai"
+251,"Unpaid Leave",2024-06-03,2024-06-18,"Khon Kaen"
+319,"Annual Leave",2024-06-06,2024-06-18,"Khon Kaen"
+319,"Unpaid Leave",2023-12-31,2024-01-07,"Khon Kaen"
+34,"Sick Leave",2024-01-01,2024-01-20,"Chiang Mai"
+212,"Unpaid Leave",2024-01-29,2024-02-06,Hatyai
+204,"Annual Leave",2024-03-30,2024-04-03,Bangkok
+167,"Unpaid Leave",2023-10-27,2023-11-23,Hatyai
+94,"Sick Leave",2024-08-02,2024-08-19,"Khon Kaen"
+67,"Annual Leave",2024-03-29,2024-04-10,Hatyai
+63,"Unpaid Leave",2024-08-10,2024-08-20,"Chiang Mai"
+58,"Sick Leave",2023-12-07,2023-12-11,Bangkok
+153,"Unpaid Leave",2023-11-02,2023-11-19,Hatyai
+241,"Annual Leave",2024-07-24,2024-08-06,"Chiang Mai"
+301,"Sick Leave",2023-09-28,2023-10-02,"Khon Kaen"
+86,"Sick Leave",2024-02-22,2024-03-17,"Khon Kaen"
+190,"Sick Leave",2023-09-15,2023-09-27,"Chiang Mai"
+301,"Unpaid Leave",2024-02-06,2024-03-01,"Khon Kaen"
+134,"Sick Leave",2023-11-07,2023-11-18,Hatyai
+137,"Unpaid Leave",2023-09-03,2023-09-17,"Chiang Mai"
+102,"Unpaid Leave",2023-09-09,2023-09-11,"Chiang Mai"
+32,"Annual Leave",2024-04-22,2024-05-17,"Chiang Mai"
+260,"Sick Leave",2023-09-11,2023-09-19,"Khon Kaen"
+227,"Sick Leave",2024-03-25,2024-03-26,"Chiang Mai"
+143,"Sick Leave",2024-07-23,2024-08-02,"Khon Kaen"
+314,"Sick Leave",2023-10-06,2023-10-20,"Khon Kaen"
+273,"Sick Leave",2023-11-13,2023-12-06,"Khon Kaen"
+178,"Sick Leave",2023-11-16,2023-12-08,Hatyai
+34,"Annual Leave",2024-03-01,2024-03-11,"Chiang Mai"
+229,"Sick Leave",2024-07-19,2024-08-12,"Khon Kaen"
+124,"Annual Leave",2024-04-06,2024-04-07,"Chiang Mai"
+150,"Annual Leave",2023-10-26,2023-11-23,Hatyai
+187,"Sick Leave",2024-05-03,2024-05-30,"Chiang Mai"
+114,"Annual Leave",2024-05-27,2024-06-08,Hatyai
+63,"Sick Leave",2024-03-17,2024-03-29,"Chiang Mai"
+106,"Unpaid Leave",2024-01-10,2024-01-27,"Khon Kaen"
+156,"Sick Leave",2024-06-01,2024-06-23,Bangkok
+180,"Unpaid Leave",2023-09-23,2023-10-17,"Chiang Mai"
+27,"Unpaid Leave",2024-08-23,2024-08-23,Hatyai
+254,"Sick Leave",2023-11-26,2023-12-02,"Khon Kaen"
+287,"Unpaid Leave",2024-03-25,2024-04-05,Hatyai
+62,"Sick Leave",2023-11-23,2023-12-21,Hatyai
+105,"Annual Leave",2023-09-12,2023-09-28,Bangkok
+296,"Sick Leave",2024-06-02,2024-06-09,Bangkok
+224,"Sick Leave",2024-06-23,2024-06-27,"Chiang Mai"
+198,"Unpaid Leave",2023-09-03,2023-09-16,"Khon Kaen"
+122,"Annual Leave",2024-01-07,2024-01-31,"Chiang Mai"
+344,"Annual Leave",2024-08-17,2024-09-06,"Chiang Mai"
+301,"Unpaid Leave",2023-10-14,2023-10-20,Hatyai
+237,"Sick Leave",2024-04-23,2024-04-27,Bangkok
+144,"Unpaid Leave",2024-03-25,2024-04-05,Bangkok
+324,"Unpaid Leave",2024-03-23,2024-04-19,"Khon Kaen"
+224,"Sick Leave",2024-03-26,2024-03-30,Bangkok
+173,"Annual Leave",2024-04-20,2024-04-27,Hatyai
+179,"Annual Leave",2024-02-25,2024-03-12,Hatyai
+17,"Annual Leave",2024-08-12,2024-08-18,Bangkok
+202,"Annual Leave",2024-01-03,2024-01-09,"Chiang Mai"
+52,"Annual Leave",2023-09-23,2023-10-22,Hatyai
+49,"Annual Leave",2024-06-18,2024-06-30,Hatyai
+153,"Annual Leave",2024-07-17,2024-07-18,"Khon Kaen"
+106,"Annual Leave",2024-05-04,2024-06-02,"Chiang Mai"
+303,"Sick Leave",2024-03-21,2024-04-13,Bangkok
+107,"Sick Leave",2024-06-01,2024-06-18,Bangkok
+32,"Sick Leave",2023-09-28,2023-10-01,"Khon Kaen"
+242,"Sick Leave",2024-06-07,2024-07-02,"Khon Kaen"
+178,"Sick Leave",2024-03-23,2024-04-01,Hatyai
+92,"Sick Leave",2024-01-26,2024-02-07,Hatyai
+308,"Annual Leave",2024-05-08,2024-05-09,Bangkok
+88,"Sick Leave",2024-04-09,2024-04-22,Hatyai
+95,"Sick Leave",2024-06-09,2024-06-25,Hatyai
+210,"Annual Leave",2024-06-12,2024-06-28,"Khon Kaen"
+45,"Annual Leave",2024-03-20,2024-03-20,Hatyai
+240,"Annual Leave",2024-04-14,2024-04-18,Bangkok
+319,"Annual Leave",2024-05-15,2024-05-29,"Khon Kaen"
+136,"Annual Leave",2023-09-30,2023-10-16,Bangkok
+41,"Annual Leave",2024-02-01,2024-03-01,Hatyai
+336,"Unpaid Leave",2023-11-13,2023-12-09,"Khon Kaen"
+236,"Sick Leave",2024-06-24,2024-07-16,Bangkok
+42,"Sick Leave",2024-05-27,2024-06-03,Hatyai
+196,"Sick Leave",2024-07-30,2024-08-02,"Chiang Mai"
+69,"Sick Leave",2024-05-27,2024-05-29,"Chiang Mai"
+346,"Sick Leave",2023-11-28,2023-12-02,Bangkok
+88,"Unpaid Leave",2024-06-23,2024-07-09,Bangkok
+324,"Annual Leave",2023-11-22,2023-11-28,"Chiang Mai"
+168,"Unpaid Leave",2023-08-27,2023-09-10,"Chiang Mai"
+174,"Sick Leave",2024-07-02,2024-07-20,Bangkok
+35,"Sick Leave",2023-12-20,2023-12-22,Hatyai
+290,"Sick Leave",2023-11-16,2023-11-22,"Khon Kaen"
+77,"Sick Leave",2024-06-06,2024-06-20,"Chiang Mai"
+287,"Unpaid Leave",2024-06-27,2024-07-05,"Khon Kaen"
+95,"Unpaid Leave",2024-06-01,2024-06-01,Hatyai
+235,"Sick Leave",2024-02-01,2024-02-20,Hatyai
+279,"Unpaid Leave",2024-04-20,2024-04-24,Bangkok
+153,"Sick Leave",2024-01-06,2024-01-26,Hatyai
+183,"Unpaid Leave",2023-10-10,2023-10-24,"Khon Kaen"
+1,"Annual Leave",2024-03-09,2024-04-05,Bangkok
+208,"Sick Leave",2024-03-30,2024-04-20,"Chiang Mai"
+205,"Annual Leave",2024-08-23,2024-08-28,Hatyai
+91,"Unpaid Leave",2023-10-05,2023-10-16,"Chiang Mai"
+318,"Sick Leave",2023-10-20,2023-11-05,Bangkok
+200,"Annual Leave",2023-09-03,2023-09-12,Bangkok
+302,"Unpaid Leave",2024-01-19,2024-01-22,"Chiang Mai"
+309,"Annual Leave",2023-09-11,2023-10-10,"Khon Kaen"
+281,"Unpaid Leave",2024-05-14,2024-05-19,Bangkok
+202,"Unpaid Leave",2024-01-17,2024-01-21,Hatyai
+61,"Annual Leave",2024-05-16,2024-05-23,"Chiang Mai"
+72,"Unpaid Leave",2024-05-16,2024-06-13,"Chiang Mai"
+155,"Unpaid Leave",2024-03-24,2024-04-18,"Chiang Mai"
+96,"Unpaid Leave",2023-08-27,2023-09-14,"Chiang Mai"
+173,"Annual Leave",2023-09-11,2023-09-19,"Chiang Mai"
+220,"Unpaid Leave",2023-12-27,2023-12-30,"Chiang Mai"
+156,"Sick Leave",2024-01-16,2024-01-31,Hatyai
+265,"Annual Leave",2023-10-06,2023-10-31,"Chiang Mai"
+217,"Sick Leave",2024-04-13,2024-04-23,"Khon Kaen"
+201,"Sick Leave",2024-04-11,2024-04-18,"Chiang Mai"
+207,"Annual Leave",2024-03-07,2024-03-17,Hatyai
+66,"Annual Leave",2024-08-23,2024-09-13,Hatyai
+13,"Annual Leave",2024-04-17,2024-04-28,"Khon Kaen"
+224,"Annual Leave",2024-01-12,2024-01-30,Bangkok
+280,"Unpaid Leave",2024-06-16,2024-06-24,Hatyai
+294,"Unpaid Leave",2024-06-09,2024-06-24,Hatyai
+96,"Sick Leave",2023-11-10,2023-12-04,Hatyai
+77,"Unpaid Leave",2024-01-31,2024-02-19,"Chiang Mai"
+61,"Sick Leave",2023-12-14,2024-01-03,"Chiang Mai"
+301,"Annual Leave",2024-06-16,2024-06-26,"Khon Kaen"
+230,"Annual Leave",2024-05-03,2024-05-30,Hatyai
+210,"Sick Leave",2024-03-15,2024-03-30,"Chiang Mai"
+85,"Unpaid Leave",2024-04-10,2024-04-20,"Chiang Mai"
+149,"Unpaid Leave",2024-05-27,2024-05-30,"Chiang Mai"
+175,"Sick Leave",2024-02-06,2024-02-11,Hatyai
+36,"Annual Leave",2024-02-28,2024-03-09,Hatyai
+42,"Unpaid Leave",2024-01-20,2024-02-03,Hatyai
+323,"Annual Leave",2024-07-03,2024-08-01,Bangkok
+333,"Sick Leave",2024-05-26,2024-06-19,"Chiang Mai"
+29,"Sick Leave",2024-04-23,2024-05-16,"Chiang Mai"
+14,"Sick Leave",2023-10-27,2023-11-10,Hatyai
+350,"Annual Leave",2024-07-12,2024-08-10,Bangkok
+322,"Annual Leave",2024-02-08,2024-03-07,"Chiang Mai"
+210,"Unpaid Leave",2024-06-17,2024-07-10,Hatyai
+108,"Annual Leave",2023-11-25,2023-12-22,Bangkok
+332,"Annual Leave",2024-06-10,2024-06-21,"Khon Kaen"
+304,"Annual Leave",2024-01-07,2024-01-16,Hatyai
+343,"Annual Leave",2023-08-28,2023-09-16,Hatyai
+92,"Sick Leave",2023-09-09,2023-09-24,"Khon Kaen"
+22,"Sick Leave",2023-10-26,2023-11-22,Hatyai
+205,"Sick Leave",2024-08-14,2024-09-01,Hatyai
+44,"Sick Leave",2024-05-20,2024-06-10,"Chiang Mai"
+69,"Annual Leave",2024-08-13,2024-09-07,Bangkok
+52,"Sick Leave",2024-06-08,2024-07-06,Bangkok
+299,"Sick Leave",2024-08-09,2024-08-10,"Chiang Mai"
+174,"Annual Leave",2024-03-28,2024-04-08,"Khon Kaen"
+288,"Sick Leave",2024-04-24,2024-05-16,"Khon Kaen"
+55,"Annual Leave",2024-08-11,2024-09-02,Bangkok
+285,"Annual Leave",2024-02-22,2024-02-22,"Khon Kaen"
+36,"Sick Leave",2024-01-25,2024-02-22,Bangkok
+265,"Annual Leave",2024-01-23,2024-02-04,"Chiang Mai"
+335,"Sick Leave",2024-05-24,2024-06-22,"Chiang Mai"
+80,"Unpaid Leave",2024-08-02,2024-08-23,Hatyai
+161,"Annual Leave",2023-09-07,2023-10-02,"Khon Kaen"
+116,"Sick Leave",2024-02-08,2024-02-17,"Khon Kaen"
+51,"Unpaid Leave",2024-01-24,2024-02-22,Hatyai
+168,"Sick Leave",2023-10-17,2023-11-02,Bangkok
+31,"Sick Leave",2024-08-06,2024-08-18,Bangkok

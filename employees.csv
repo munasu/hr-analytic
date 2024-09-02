@@ -1,0 +1,351 @@
+"employee id",name,gender,birthdate,position,department,location,"start date","leave date",salary
+1,"Carrie Mullins",Male,2002-04-09,"Database Administrator",Engineering,"Khon Kaen",2021-08-29,2024-11-01,40205
+2,"Lisa Nunez",Female,1996-08-06,"Cybersecurity Specialist",Marketing,Bangkok,2022-11-10,,143448
+3,"Mitchell Hampton",Male,1986-12-18,"Software Engineer",Support,"Chiang Mai",2024-02-24,2025-01-03,109463
+4,"Kevin Rodriguez",Female,1995-11-20,"Backend Developer",Marketing,"Chiang Mai",2024-08-15,2025-06-20,113218
+5,"Nancy Chen",Female,1969-12-22,"Mobile Developer",Engineering,"Khon Kaen",2022-08-04,2025-03-16,54138
+6,"Lisa Smith",Female,1971-09-08,"Frontend Developer",Operations,"Chiang Mai",2022-03-14,2025-03-03,95711
+7,"Robert Wallace",Female,1968-05-24,"System Administrator",Support,"Khon Kaen",2024-05-27,,43239
+8,"Karen Davis",Female,2001-07-14,"Backend Developer",Operations,"Chiang Mai",2023-07-06,,31265
+9,"Ellen Rowe",Male,1969-10-18,"Product Manager",Support,Bangkok,2022-04-05,,127689
+10,"Robert Esparza",Male,1983-04-22,"Frontend Developer",Finance,Hatyai,2022-01-12,,56966
+11,"Mr. Anthony Arnold",Male,1964-10-15,"Network Engineer",Finance,Hatyai,2024-02-20,2025-03-23,50889
+12,"Marcus Olson",Female,2004-12-31,"Frontend Developer",Finance,Bangkok,2023-04-08,,61194
+13,"Bryan Brown",Male,1997-07-11,"Database Administrator",IT,"Khon Kaen",2024-02-11,,114504
+14,"Deborah Fitzgerald",Female,2005-01-30,"UX/UI Designer",IT,"Chiang Mai",2022-07-09,,142715
+15,"Laurie Cross",Female,2002-07-08,"Cybersecurity Specialist",HR,"Khon Kaen",2023-12-25,,91503
+16,"Keith Mathews",Male,1989-01-27,"UX/UI Designer",IT,Hatyai,2023-01-23,,61373
+17,"Sherri Davis",Male,1965-08-04,"Software Engineer",Marketing,Bangkok,2023-11-05,2025-05-31,118306
+18,"Alan Sheppard",Female,1974-01-20,"Frontend Developer",HR,Hatyai,2023-02-02,2025-05-25,66506
+19,"Megan Avila",Female,1979-07-02,"Full Stack Developer",Support,Bangkok,2022-09-14,,98404
+20,"Katie Foster",Male,1998-02-26,"UX/UI Designer",Support,Hatyai,2022-02-12,2025-01-26,144187
+21,"Terry Klein",Male,1979-07-07,"Mobile Developer",Marketing,"Khon Kaen",2024-04-24,,110049
+22,"Joseph Brown",Male,1971-05-05,"Technical Support",Finance,"Chiang Mai",2021-09-12,2024-12-26,120126
+23,"Elizabeth Sanders",Male,2002-11-11,"AI Engineer",HR,Hatyai,2022-02-25,,47497
+24,"Vanessa Harmon",Male,1966-05-18,"Mobile Developer",Engineering,Hatyai,2022-09-30,2025-08-13,64595
+25,"Cameron Hunt",Female,2004-06-16,"DevOps Engineer",Support,Hatyai,2022-08-29,,125169
+26,"Alejandra Bennett",Male,2006-06-27,"Mobile Developer",Support,Hatyai,2024-01-28,,134167
+27,"Katie White",Female,1997-07-23,"Database Administrator",HR,Hatyai,2022-09-23,2025-05-02,112567
+28,"Michael Hahn",Male,2002-12-03,"Frontend Developer",Finance,"Khon Kaen",2022-05-09,,124988
+29,"Darryl Buckley",Male,2003-02-04,"Software Engineer",Operations,Bangkok,2022-09-11,2024-12-23,145270
+30,"Loretta Ellis",Female,1997-09-22,"DevOps Engineer",Support,"Chiang Mai",2021-10-02,,95925
+31,"William Sherman",Male,1967-04-12,"Product Manager",Engineering,"Khon Kaen",2022-03-04,2024-11-30,130298
+32,"Joshua Rivera",Female,2005-12-14,"Mobile Developer",IT,"Chiang Mai",2022-09-25,2025-04-02,105663
+33,"Jordan Peters",Male,1992-11-26,"Backend Developer",Support,"Khon Kaen",2022-10-08,2025-01-01,99155
+34,"Sarah Griffin",Female,2001-03-07,"Frontend Developer",HR,Bangkok,2023-03-05,2025-01-03,148214
+35,"Bruce Maxwell",Female,1986-05-25,"AI Engineer",IT,"Chiang Mai",2024-04-27,2025-03-10,47542
+36,"Shelly Barton",Female,1987-02-27,"Cloud Architect",Marketing,Hatyai,2022-10-07,2025-01-22,141501
+37,"Lynn Smith",Male,2003-03-23,"Frontend Developer",Support,"Chiang Mai",2023-04-25,,45476
+38,"Jacqueline Peterson",Female,2003-10-16,"UX/UI Designer",IT,"Khon Kaen",2022-01-06,2024-09-28,31151
+39,"Lydia Lamb",Female,1988-09-14,"Data Scientist",HR,Hatyai,2023-01-23,,68933
+40,"Matthew Wilson",Female,1998-11-01,"UX/UI Designer",Marketing,"Khon Kaen",2022-04-05,2025-03-15,33484
+41,"Dominique Rodriguez",Female,2000-12-27,"Data Scientist",HR,"Khon Kaen",2021-11-26,,35306
+42,"Thomas Phillips",Male,1989-03-09,"Data Scientist",Engineering,Hatyai,2024-02-02,2025-02-18,130023
+43,"Angela Lewis",Female,2005-01-01,"Cybersecurity Specialist",HR,"Khon Kaen",2024-01-12,,49648
+44,"Mr. Matthew Sanchez",Female,1985-12-15,"Data Scientist",HR,"Khon Kaen",2022-08-11,,41565
+45,"Megan Brown",Male,1989-01-27,"Cloud Architect",Marketing,"Chiang Mai",2023-02-28,,95710
+46,"Bryan Sandoval",Female,1998-02-19,"Database Administrator",Operations,"Chiang Mai",2023-10-05,2025-06-04,67929
+47,"Sherry Hayes",Female,1972-11-25,"Mobile Developer",Operations,"Khon Kaen",2023-03-04,,48852
+48,"Jillian Smith",Female,1978-05-02,"Database Administrator",Operations,"Khon Kaen",2024-07-18,,135072
+49,"Carla Simpson",Male,2003-12-23,"UX/UI Designer",Operations,"Chiang Mai",2022-05-14,2025-06-20,98700
+50,"Paula Smith",Male,1978-11-01,"Backend Developer",Engineering,Hatyai,2023-01-27,,86930
+51,"Kelly Anderson DVM",Female,2004-08-17,"UX/UI Designer",Marketing,"Chiang Mai",2021-09-04,2024-10-20,46610
+52,"Kristen Sanchez",Female,1969-06-14,"Cloud Architect",HR,"Chiang Mai",2022-09-05,,86068
+53,"Thomas Peterson",Male,1966-02-19,"Data Scientist",Finance,Bangkok,2023-06-01,,40398
+54,"Emily Bowen",Female,1973-02-22,"Cloud Architect",Operations,"Khon Kaen",2024-07-29,,43624
+55,"Joshua Fisher",Male,1976-01-07,"Software Engineer",Finance,"Khon Kaen",2023-11-08,2025-04-09,35978
+56,"Brian Pratt",Female,1994-08-06,"Network Engineer",Marketing,Hatyai,2023-04-07,2025-04-04,93218
+57,"Holly Shaw",Female,1972-03-28,"System Administrator",IT,Hatyai,2021-12-25,2025-08-09,84288
+58,"William Randall",Female,1975-06-28,"System Administrator",IT,Bangkok,2023-02-17,2025-04-18,86584
+59,"Vanessa Turner",Female,1978-03-16,"Network Engineer",Operations,"Chiang Mai",2023-07-01,2025-05-23,141517
+60,"Jane Acosta",Male,1979-05-31,"Backend Developer",Support,"Chiang Mai",2021-09-11,,75331
+61,"Stacy Cox",Female,1978-06-22,"Technical Support",Finance,Bangkok,2022-11-18,,101338
+62,"Joseph Diaz",Male,1968-07-03,"Full Stack Developer",Operations,"Chiang Mai",2023-08-13,,41320
+63,"Carlos Moore",Female,1975-01-18,"Data Scientist",Operations,Bangkok,2024-08-08,,60724
+64,"Alexis Garcia",Female,1987-12-21,"Cloud Architect",Engineering,"Chiang Mai",2023-08-07,,149021
+65,"Shirley Brown",Female,1979-11-13,"Cloud Architect",Finance,"Khon Kaen",2024-07-20,,137507
+66,"Jane Jones",Female,1968-07-23,"UX/UI Designer",Marketing,"Chiang Mai",2022-06-26,,72816
+67,"Joshua Flores",Female,2002-07-12,"Product Manager",Finance,"Khon Kaen",2022-10-19,2024-11-19,121310
+68,"Jennifer Patterson",Female,2006-02-20,"Mobile Developer",HR,Bangkok,2023-09-30,,118136
+69,"Jacob Johnson",Female,1992-11-21,"Frontend Developer",Marketing,Hatyai,2021-10-23,,149999
+70,"Joshua Craig",Male,1985-11-21,"Frontend Developer",IT,"Khon Kaen",2023-07-03,,33393
+71,"Brandi Pena",Female,1970-10-26,"AI Engineer",Operations,Bangkok,2021-09-15,2025-05-01,81127
+72,"Joel Townsend",Male,1978-08-21,"DevOps Engineer",Marketing,"Khon Kaen",2023-12-16,,73781
+73,"Kristen Bennett",Female,1977-06-03,"Backend Developer",Finance,Bangkok,2021-10-28,,43279
+74,"Larry Patel",Female,1993-10-07,"Product Manager",Operations,Hatyai,2021-11-06,,118549
+75,"Thomas Massey",Female,1994-05-27,"System Administrator",Support,Hatyai,2024-07-26,,111798
+76,"Paul Andrews",Male,1968-07-25,"Database Administrator",Operations,Hatyai,2022-11-26,2025-03-06,101747
+77,"Charles Lewis",Female,1984-05-26,"Product Manager",Marketing,"Chiang Mai",2022-03-11,2024-12-03,56791
+78,"Dawn Wilkins",Male,1979-07-19,"Data Scientist",Engineering,"Khon Kaen",2022-09-07,,59328
+79,"Brittany Stewart",Female,1968-03-05,"Backend Developer",Support,"Khon Kaen",2023-05-18,2024-09-22,37373
+80,"Lauren Carter",Female,2004-02-23,"Full Stack Developer",Operations,"Khon Kaen",2023-08-14,,49489
+81,"Andrew Moore",Male,1985-12-25,"Backend Developer",HR,Bangkok,2022-09-24,,144076
+82,"Joshua Nichols",Female,1973-07-10,"System Administrator",HR,"Chiang Mai",2023-05-03,2025-07-18,32578
+83,"Jonathan Robinson",Female,1996-06-18,"Cybersecurity Specialist",HR,Hatyai,2024-04-04,,122882
+84,"Jodi Hernandez",Male,1974-11-25,"Mobile Developer",Support,Hatyai,2022-08-23,,35552
+85,"Timothy Gonzalez",Male,2004-03-24,"Full Stack Developer",IT,Hatyai,2024-04-09,,75341
+86,"Mr. Nicholas Morris",Male,1992-10-24,"AI Engineer",Marketing,Bangkok,2021-10-22,2025-04-20,104953
+87,"Mariah Ramirez",Male,1978-07-20,"Backend Developer",Marketing,Hatyai,2022-04-16,2025-04-29,81227
+88,"Lauren Baker",Male,2001-10-11,"Database Administrator",Finance,"Chiang Mai",2024-01-09,,149289
+89,"Justin Fernandez",Male,1975-07-08,"DevOps Engineer",Support,"Chiang Mai",2023-09-20,,97133
+90,"Nicholas Holland",Male,1989-09-10,"Full Stack Developer",Operations,"Khon Kaen",2023-06-03,,133770
+91,"Jeffrey Khan",Male,2002-10-28,"Data Scientist",HR,"Khon Kaen",2021-11-28,2025-07-07,89751
+92,"Zachary Ortiz",Male,1994-09-18,"Cloud Architect",Marketing,"Khon Kaen",2023-08-16,,90696
+93,"Emily Evans",Female,1973-06-22,"Full Stack Developer",IT,"Chiang Mai",2024-08-17,,46546
+94,"John Garrison",Female,1982-03-25,"System Administrator",HR,"Chiang Mai",2023-11-13,2025-05-04,125959
+95,"Jennifer Bradley",Female,1995-01-20,"Cloud Architect",Operations,"Khon Kaen",2022-01-28,2025-07-21,147354
+96,"Samantha Martinez",Female,1995-10-26,"Product Manager",Operations,"Chiang Mai",2023-01-04,2025-01-20,148272
+97,"Vickie Morgan",Male,1986-05-31,"Product Manager",IT,"Khon Kaen",2022-07-19,2024-09-06,140095
+98,"Phillip Young",Female,1969-03-25,"AI Engineer",Operations,Hatyai,2021-10-18,,72511
+99,"Jon Woods",Male,2004-05-06,"Product Manager",HR,Hatyai,2023-11-26,,43733
+100,"Lisa Norton",Female,1969-10-19,"DevOps Engineer",Marketing,Hatyai,2021-09-21,,33338
+101,"Katie Johnson",Male,1979-11-16,"Product Manager",Marketing,Bangkok,2022-01-22,,125911
+102,"Diana Berry",Female,2005-01-22,"Data Scientist",HR,"Chiang Mai",2022-12-11,2024-08-28,143502
+103,"Bryan Jones",Male,2000-03-23,"Backend Developer",Finance,Bangkok,2023-12-08,2025-07-17,56967
+104,"Kimberly Jennings",Female,1971-01-04,"Mobile Developer",Operations,"Khon Kaen",2021-12-06,2025-08-04,85432
+105,"Ricky Rice",Male,1985-03-12,"Database Administrator",Marketing,Bangkok,2022-07-17,,84366
+106,"Natasha Fisher",Male,1994-11-29,"Network Engineer",Engineering,Hatyai,2023-11-26,,55265
+107,"Kenneth Navarro",Male,1987-02-05,"Database Administrator",Support,"Chiang Mai",2024-07-21,2025-08-22,129765
+108,"Jonathan Henderson",Female,1969-04-25,"Frontend Developer",Operations,"Chiang Mai",2024-04-12,2024-12-23,31244
+109,"Lauren Pugh",Female,1976-09-26,"System Administrator",HR,"Chiang Mai",2024-07-23,,49751
+110,"Jessica Tran",Female,1972-04-16,"Mobile Developer",Support,"Khon Kaen",2024-06-13,,53120
+111,"William Myers",Male,1986-05-07,"Network Engineer",Marketing,"Khon Kaen",2023-12-18,,123623
+112,"Kevin Jackson",Male,1994-08-04,"Database Administrator",Support,"Chiang Mai",2023-04-08,2025-05-31,49747
+113,"Sherry Kim",Female,2006-05-19,"AI Engineer",Operations,"Khon Kaen",2021-11-14,,43797
+114,"Bruce Schneider",Female,1993-04-08,"Software Engineer",Support,"Chiang Mai",2023-05-08,2024-11-09,43542
+115,"Calvin Woods",Female,1968-09-17,"Backend Developer",IT,Hatyai,2023-06-30,,82108
+116,"Tony Williams",Female,1992-04-04,"Frontend Developer",Operations,"Chiang Mai",2021-09-29,,88280
+117,"Kimberly Lyons",Male,1996-08-06,"Mobile Developer",Support,Bangkok,2023-10-30,2024-11-29,96104
+118,"Richard Scott",Male,1998-03-15,"Technical Support",HR,Hatyai,2022-02-12,,40695
+119,"Stacy Lee",Female,1988-07-07,"Cybersecurity Specialist",Marketing,"Khon Kaen",2021-09-24,,143618
+120,"Karen Jones",Female,2001-01-28,"AI Engineer",Operations,Hatyai,2022-03-30,,71918
+121,"Daniel Thompson",Male,1999-04-02,"Data Scientist",Marketing,"Chiang Mai",2023-01-05,,70198
+122,"Craig Taylor",Female,1987-04-18,"Network Engineer",Support,Bangkok,2024-06-22,2025-06-07,81316
+123,"Whitney Brown",Male,1970-03-19,"Cybersecurity Specialist",HR,"Khon Kaen",2023-09-02,2024-10-02,127615
+124,"Robin Phillips",Male,1983-11-26,"Product Manager",HR,Bangkok,2021-12-30,,93379
+125,"Richard Garcia",Male,1977-03-10,"AI Engineer",Marketing,Bangkok,2023-10-11,,148676
+126,"Kimberly Collins",Male,1965-12-08,"Cloud Architect",Support,"Khon Kaen",2024-04-08,,98506
+127,"Christopher Hall",Female,1980-09-15,"Network Engineer",IT,"Chiang Mai",2022-09-16,,73966
+128,"Nancy Chavez",Female,2006-04-27,"Software Engineer",Engineering,"Khon Kaen",2023-01-28,,65585
+129,"Wendy Lee",Female,2003-10-29,"Software Engineer",Engineering,Bangkok,2021-09-03,2024-11-11,81134
+130,"Steven Walker",Male,1988-10-14,"Full Stack Developer",Support,"Chiang Mai",2022-09-04,,37308
+131,"Donna Barajas",Male,1984-01-24,"Technical Support",IT,"Chiang Mai",2024-06-15,2025-01-06,98472
+132,"Katherine Porter",Female,2004-12-20,"DevOps Engineer",Engineering,Bangkok,2023-12-04,,112145
+133,"Latoya Miller",Female,1977-11-21,"Frontend Developer",Marketing,"Khon Kaen",2023-11-10,2024-09-21,148062
+134,"Henry Welch",Male,1982-10-18,"Cloud Architect",Marketing,Bangkok,2024-06-20,2025-05-08,139695
+135,"William Martin",Male,2001-08-29,"Backend Developer",Marketing,"Khon Kaen",2021-11-21,,56104
+136,"John Vincent",Female,1979-02-03,"UX/UI Designer",Operations,"Khon Kaen",2024-06-14,,122477
+137,"Julie Hogan",Male,1985-11-07,"Product Manager",HR,"Khon Kaen",2021-10-20,,70051
+138,"David Washington",Female,2001-09-01,"Software Engineer",IT,"Khon Kaen",2022-07-26,,114634
+139,"Dr. Alexander Pierce",Male,1965-11-19,"Data Scientist",Engineering,Hatyai,2023-01-30,,47666
+140,"Taylor Atkins",Male,2005-04-09,"AI Engineer",Engineering,"Chiang Mai",2024-01-07,2025-03-13,114690
+141,"James Jacobs",Male,1980-05-16,"System Administrator",IT,"Chiang Mai",2023-03-16,,53892
+142,"Claire Stein",Male,1998-01-05,"System Administrator",Support,"Chiang Mai",2023-02-24,,73126
+143,"Michael Butler",Male,1987-02-10,"Frontend Developer",HR,"Chiang Mai",2023-08-26,2024-12-23,100756
+144,"Jennifer Henry",Male,1988-05-29,"Frontend Developer",Marketing,Bangkok,2022-12-29,2025-06-17,114686
+145,"Rachel Brewer",Female,1976-07-16,"Network Engineer",Engineering,Hatyai,2024-02-22,2025-02-06,61715
+146,"Kimberly Johnson",Female,2006-06-21,"Product Manager",Support,"Chiang Mai",2022-09-27,2024-09-01,131160
+147,"Tonya Hardy",Male,1993-02-15,"Cloud Architect",Support,Bangkok,2022-05-19,,115585
+148,"Christina Nguyen",Male,1986-12-07,"Database Administrator",HR,Hatyai,2024-03-20,2025-08-22,113511
+149,"Jonathan Hernandez",Male,1968-09-16,"Backend Developer",Finance,Bangkok,2023-09-20,2025-04-22,105507
+150,"Glen Walsh",Female,1979-10-09,"UX/UI Designer",Engineering,Hatyai,2024-05-27,2024-12-03,41861
+151,"Alexandra Hogan",Female,1987-11-29,"Cybersecurity Specialist",Marketing,"Khon Kaen",2023-05-08,2025-05-20,91034
+152,"Crystal Roberts",Male,1971-11-14,"System Administrator",IT,Hatyai,2023-03-18,,115469
+153,"Karina Johnson",Male,1974-03-31,"UX/UI Designer",Operations,Hatyai,2023-08-15,,144879
+154,"Jamie Edwards",Female,2003-06-19,"Full Stack Developer",Operations,Hatyai,2022-12-04,2025-02-24,35222
+155,"Amy Frank",Female,2004-12-29,"Backend Developer",IT,Hatyai,2023-07-28,,88990
+156,"Diana Ali",Male,2002-05-07,"Product Manager",HR,Hatyai,2022-11-12,,41804
+157,"Patricia Clark",Female,1969-07-07,"Backend Developer",Operations,"Khon Kaen",2022-01-20,,65635
+158,"Miranda Cortez",Female,2002-10-11,"Frontend Developer",Marketing,Hatyai,2023-08-25,2025-07-04,113704
+159,"Henry Reyes",Female,1998-01-29,"AI Engineer",Operations,"Khon Kaen",2022-12-04,2024-09-29,118512
+160,"Samantha Mccormick",Female,1972-11-05,"Software Engineer",IT,Bangkok,2022-12-11,,66952
+161,"Mrs. Christine Vargas DDS",Male,2002-11-22,"Database Administrator",Finance,"Chiang Mai",2023-02-08,2025-01-28,53791
+162,"Betty Gordon",Female,1995-04-25,"System Administrator",Engineering,Hatyai,2022-04-09,,109103
+163,"Joshua Reynolds",Female,1990-06-04,"DevOps Engineer",Finance,Hatyai,2024-01-22,2024-12-08,74446
+164,"Nicole Martinez",Female,1970-12-20,"UX/UI Designer",HR,Bangkok,2024-05-07,,99848
+165,"Eric Johnson",Male,1982-07-27,"Data Scientist",Finance,Bangkok,2023-05-05,2024-09-17,106931
+166,"Kimberly Jones",Female,1974-09-02,"Technical Support",Finance,"Khon Kaen",2024-08-22,2025-01-11,67456
+167,"Cody Huffman",Female,2004-11-20,"AI Engineer",Finance,"Chiang Mai",2024-07-01,,119828
+168,"Jacob Williamson",Female,1967-10-23,"AI Engineer",Operations,Bangkok,2024-04-22,2025-04-24,114825
+169,"Jeffrey Mclaughlin",Male,1963-10-11,"Database Administrator",IT,Bangkok,2022-08-13,2025-05-08,144112
+170,"Jamie Jackson",Female,1994-07-15,"Data Scientist",Operations,"Chiang Mai",2023-11-16,2024-10-24,97015
+171,"Russell Jimenez",Female,1971-01-08,"Product Manager",Support,"Chiang Mai",2022-12-23,2024-12-26,116172
+172,"Robert Cooper",Male,1988-09-28,"Technical Support",HR,"Khon Kaen",2022-09-19,2024-09-12,95300
+173,"Brittany Perkins",Male,1972-06-19,"Network Engineer",HR,"Chiang Mai",2023-11-29,,61233
+174,"John Bradley",Female,1992-01-12,"Cloud Architect",Operations,"Chiang Mai",2022-05-05,,47021
+175,"Melinda Pope",Female,1997-11-14,"Full Stack Developer",IT,"Khon Kaen",2023-09-28,2024-10-14,48108
+176,"Karen Crane",Female,1976-07-20,"Technical Support",Operations,"Chiang Mai",2023-11-07,2025-06-20,82168
+177,"David Anderson",Female,1973-10-18,"Cybersecurity Specialist",Engineering,"Chiang Mai",2023-09-30,2025-01-02,93542
+178,"Nicole Barnett",Female,2000-01-22,"Data Scientist",Engineering,"Khon Kaen",2022-09-06,2025-01-25,148725
+179,"Michaela Wilson",Female,1991-04-05,"AI Engineer",IT,Bangkok,2023-02-25,2024-09-13,53824
+180,"Anthony Garrison",Male,1970-06-02,"Cloud Architect",Marketing,"Khon Kaen",2023-05-07,,135357
+181,"Elizabeth Joseph",Female,1998-04-30,"Mobile Developer",HR,Bangkok,2023-01-15,2024-09-05,66365
+182,"Jill Nelson",Female,2004-02-23,"Network Engineer",Engineering,"Chiang Mai",2022-08-02,2025-05-23,58282
+183,"Bernard Moss",Female,1981-10-19,"System Administrator",Marketing,Hatyai,2023-07-01,,50995
+184,"Spencer Silva MD",Male,1991-08-09,"Mobile Developer",IT,"Chiang Mai",2023-06-16,2025-03-20,97818
+185,"Robert Mitchell",Male,1977-10-03,"AI Engineer",Operations,Bangkok,2023-11-20,,118637
+186,"Michael Anderson",Male,1988-11-26,"Backend Developer",Support,"Chiang Mai",2022-09-22,2024-10-17,62352
+187,"Maurice Nichols",Female,1995-09-17,"Mobile Developer",HR,Bangkok,2021-11-22,2024-12-28,53058
+188,"Eric Williams",Female,1992-06-12,"Cybersecurity Specialist",HR,"Chiang Mai",2024-04-28,,30378
+189,"Alexander Williams",Female,1993-07-03,"Full Stack Developer",Finance,"Chiang Mai",2022-08-19,,30264
+190,"Sean Frazier",Female,1968-01-26,"Full Stack Developer",IT,Bangkok,2022-09-03,,104517
+191,"Lori Herrera",Male,1964-06-26,"Network Engineer",Finance,"Chiang Mai",2022-06-22,2025-03-25,32060
+192,"Julie Powers",Female,2005-04-23,"Product Manager",Engineering,Bangkok,2023-12-11,,50507
+193,"Amber Harper",Male,1969-01-16,"System Administrator",Finance,Bangkok,2022-04-26,,79422
+194,"John Riddle",Male,1981-07-30,"Full Stack Developer",Engineering,Hatyai,2023-03-30,,55378
+195,"Betty Anderson",Male,1965-12-16,"Network Engineer",Finance,Bangkok,2023-12-19,,41668
+196,"Daniel Pace",Male,1991-04-07,"UX/UI Designer",Marketing,"Khon Kaen",2022-02-17,2024-09-01,46092
+197,"April Gates",Female,2003-07-04,"Software Engineer",Marketing,Hatyai,2024-06-23,2024-10-08,65967
+198,"Abigail Hoffman",Female,1967-11-15,"DevOps Engineer",HR,Bangkok,2023-06-25,2025-03-20,85472
+199,"Morgan Lopez",Female,2000-01-14,"Data Scientist",HR,Bangkok,2023-05-22,2025-08-23,139522
+200,"Mark Dunlap",Male,1992-09-02,"Database Administrator",HR,Bangkok,2021-08-25,2024-09-27,142917
+201,"Marcus Lara",Male,2003-07-11,"Database Administrator",Support,Bangkok,2022-01-20,,47315
+202,"Ricardo Lawrence",Female,1975-11-19,"Database Administrator",Finance,"Khon Kaen",2022-07-31,,51610
+203,"Dan Gallagher",Female,1973-12-18,"System Administrator",Engineering,"Khon Kaen",2023-04-09,2025-06-25,143878
+204,"Fernando Molina",Male,1989-07-12,"Cloud Architect",Operations,Bangkok,2022-07-30,2025-04-17,129407
+205,"Mr. Larry Williams",Male,1977-02-08,"Software Engineer",HR,"Khon Kaen",2023-12-05,2024-12-05,118538
+206,"Kristin Brown",Male,1981-04-26,"Mobile Developer",Finance,"Khon Kaen",2023-10-20,,103804
+207,"Faith Williams MD",Male,1995-02-07,"Data Scientist",IT,Bangkok,2023-08-01,2024-12-02,96152
+208,"Leslie Rodriguez",Female,2002-09-09,"Data Scientist",HR,Hatyai,2023-02-13,2025-07-13,123888
+209,"Robert Gomez",Female,1999-03-07,"Backend Developer",Finance,Bangkok,2022-07-09,2024-11-23,45516
+210,"Steven Wright",Male,1981-01-19,"Full Stack Developer",Finance,Hatyai,2022-03-13,2024-09-14,73470
+211,"Emily Boone",Male,1973-02-23,"Data Scientist",Support,Hatyai,2023-07-08,2024-12-30,72210
+212,"Tabitha Stephens",Male,1994-07-19,"UX/UI Designer",Operations,Hatyai,2021-09-21,,130651
+213,"Richard Taylor",Male,1980-11-17,"AI Engineer",Operations,"Chiang Mai",2023-12-11,,57818
+214,"Adam Price",Female,1968-08-12,"Network Engineer",IT,"Chiang Mai",2021-09-10,,56735
+215,"Lauren Wright",Male,1982-06-23,"Mobile Developer",Marketing,"Chiang Mai",2023-08-27,,64903
+216,"Elizabeth Obrien",Female,2005-05-30,"Product Manager",Finance,Hatyai,2023-09-15,,139704
+217,"Jamie Taylor",Female,1997-06-28,"Technical Support",Marketing,"Chiang Mai",2023-02-14,,108770
+218,"Anthony Christensen",Male,1985-09-26,"Software Engineer",Operations,"Chiang Mai",2022-07-05,2025-06-17,95064
+219,"Amanda Jones",Female,2004-01-17,"Full Stack Developer",Finance,Hatyai,2022-11-12,,120877
+220,"Nicolas Morales",Female,1974-07-25,"System Administrator",Marketing,"Chiang Mai",2023-09-09,,85391
+221,"Heather York",Male,1986-09-04,"DevOps Engineer",IT,Hatyai,2024-03-29,,46956
+222,"Christina Mclaughlin",Female,1971-08-20,"Database Administrator",Support,Bangkok,2023-02-12,,46485
+223,"Melissa Adams",Male,1982-02-12,"Product Manager",HR,Hatyai,2021-10-22,,127791
+224,"Melissa Deleon",Male,1970-04-25,"Data Scientist",Engineering,Hatyai,2021-11-14,2025-07-02,136042
+225,"Andrew Bryan",Female,1974-01-01,"Cloud Architect",Finance,"Chiang Mai",2022-07-25,,103093
+226,"Kristin Clark",Female,1991-11-14,"Mobile Developer",Support,Bangkok,2024-01-12,,124421
+227,"Lauren Watts",Female,1994-01-13,"Mobile Developer",Marketing,"Khon Kaen",2023-04-24,,81028
+228,"Donna Baker",Female,1970-02-19,"Cloud Architect",HR,"Khon Kaen",2021-12-04,2025-03-23,84724
+229,"Emily Nguyen",Female,1980-08-16,"Technical Support",Engineering,Hatyai,2021-09-06,2025-08-14,57106
+230,"Elizabeth Washington",Female,1980-05-20,"Software Engineer",Finance,"Chiang Mai",2022-05-15,,71993
+231,"Angela Robinson",Male,1992-08-24,"Database Administrator",Operations,"Khon Kaen",2022-11-21,2025-03-10,78718
+232,"Diane Wilson",Female,1966-08-03,"Technical Support",Finance,Bangkok,2022-05-01,2025-07-10,98023
+233,"Brian Nelson",Female,1966-04-30,"AI Engineer",IT,"Khon Kaen",2023-08-13,,137094
+234,"Maria Smith",Female,1973-02-15,"Mobile Developer",HR,"Khon Kaen",2023-04-10,,125784
+235,"Stephen Fuller",Male,1966-05-18,"Backend Developer",Engineering,Bangkok,2022-01-28,2025-01-23,74660
+236,"Dakota Watson",Female,1995-04-24,"AI Engineer",Support,"Chiang Mai",2023-11-13,,81769
+237,"Darryl Fuller",Male,1989-06-03,"Cybersecurity Specialist",Engineering,"Khon Kaen",2023-03-25,,100700
+238,"Stephanie Johnson",Male,2006-05-25,"DevOps Engineer",HR,"Chiang Mai",2023-08-23,2025-02-19,39348
+239,"Danielle Collins",Male,1973-01-04,"Database Administrator",Finance,"Chiang Mai",2023-03-13,2024-10-09,130543
+240,"David Beck",Female,1995-01-23,"Data Scientist",Operations,Bangkok,2024-03-24,,106139
+241,"Nicholas Anderson",Male,1969-02-03,"Cybersecurity Specialist",Operations,Bangkok,2024-05-20,,127387
+242,"Kimberly Ray",Female,1978-07-24,"Full Stack Developer",Finance,Hatyai,2021-10-19,2024-11-02,124820
+243,"Michael Nguyen",Female,1976-12-23,"Product Manager",HR,Bangkok,2023-01-30,,90537
+244,"Sherri Webb",Male,1996-09-10,"Software Engineer",Engineering,"Chiang Mai",2023-02-25,,48763
+245,"James Johnson",Female,2002-10-06,"Technical Support",IT,"Chiang Mai",2022-10-19,2025-02-11,64059
+246,"Brian Brown",Male,1981-10-30,"Database Administrator",Support,Hatyai,2024-06-26,2024-12-22,129374
+247,"Matthew Brooks",Male,1974-04-20,"Cybersecurity Specialist",Operations,"Chiang Mai",2023-08-07,2024-10-13,142860
+248,"Scott Fleming",Female,1992-05-21,"Cloud Architect",Operations,Bangkok,2024-01-10,2025-07-17,57823
+249,"Mckenzie James",Female,1977-10-05,"Software Engineer",Operations,Bangkok,2022-04-25,2025-04-23,92592
+250,"Lucas Perkins",Male,1993-10-31,"Full Stack Developer",Operations,Bangkok,2024-02-09,,104157
+251,"Erik Gutierrez",Female,1986-10-29,"UX/UI Designer",Finance,Hatyai,2024-02-28,,122319
+252,"Frank Tanner",Male,1978-05-16,"Technical Support",IT,Hatyai,2021-12-24,,63691
+253,"Rebecca Scott",Female,1984-12-03,"Technical Support",Marketing,Bangkok,2023-08-29,,104835
+254,"Brent Perez",Male,1966-02-17,"Network Engineer",Operations,Hatyai,2022-09-16,2025-04-28,104615
+255,"Blake Anderson",Male,1969-03-15,"UX/UI Designer",HR,Bangkok,2023-04-08,2024-11-24,47732
+256,"Samuel Kelly",Male,1998-08-28,"Cloud Architect",Finance,Hatyai,2021-12-09,2025-02-25,59966
+257,"Virginia Rivera",Female,1988-07-05,"Cloud Architect",HR,"Khon Kaen",2022-01-08,2025-06-26,149826
+258,"Dr. Donna Clark",Male,1984-04-24,"Network Engineer",IT,"Chiang Mai",2023-04-12,,54495
+259,"Christopher Hernandez",Female,1969-07-29,"Backend Developer",Operations,"Chiang Mai",2021-11-12,2025-05-07,120951
+260,"Tracy Fowler",Female,1997-08-26,"Full Stack Developer",Support,Bangkok,2024-01-16,,61690
+261,"Carrie Miller MD",Male,2006-01-02,"Mobile Developer",Finance,Hatyai,2023-06-16,,62154
+262,"Matthew Russo",Female,1964-02-17,"Full Stack Developer",Support,Hatyai,2023-01-08,2025-02-11,79560
+263,"Steven Reeves",Female,2001-04-11,"Software Engineer",Operations,Hatyai,2021-09-02,2025-06-14,95746
+264,"Scott Henry",Female,1983-05-28,"Cloud Architect",IT,"Khon Kaen",2022-11-27,2024-11-01,44241
+265,"Susan Davis",Female,1995-01-04,"Product Manager",Marketing,Bangkok,2024-01-11,,145810
+266,"Mark Bridges",Male,1997-01-16,"Software Engineer",Marketing,Hatyai,2023-06-23,,142567
+267,"Vincent Hoffman",Male,1963-09-15,"Software Engineer",Support,Hatyai,2023-08-18,2024-12-04,141815
+268,"Ethan Crawford",Male,1979-09-21,"AI Engineer",Marketing,"Khon Kaen",2023-11-10,2025-08-18,44378
+269,"Matthew Moon",Male,1980-09-07,"Mobile Developer",HR,"Khon Kaen",2024-06-19,2025-01-03,35983
+270,"Deborah Ramirez",Female,2005-10-18,"DevOps Engineer",IT,"Khon Kaen",2024-03-17,2025-03-08,116730
+271,"John Price",Female,2000-09-20,"DevOps Engineer",IT,"Khon Kaen",2023-10-30,2024-12-01,141241
+272,"Lori Love",Female,1968-10-25,"Cybersecurity Specialist",IT,"Khon Kaen",2022-07-23,,41792
+273,"John Hill",Male,1973-02-17,"Backend Developer",Marketing,"Khon Kaen",2022-01-26,2024-08-25,82328
+274,"Kyle Flores",Female,1993-07-21,"Product Manager",Finance,Bangkok,2022-02-08,,94039
+275,"Colton Carrillo",Female,1978-06-27,"Full Stack Developer",Operations,Hatyai,2021-11-21,2024-10-13,104216
+276,"Ethan Williams",Female,1986-01-21,"AI Engineer",HR,"Khon Kaen",2023-04-12,,56205
+277,"Ernest Conley",Male,2003-04-11,"Data Scientist",Marketing,Hatyai,2023-08-27,,68248
+278,"Jacob Harris",Male,1967-07-27,"Database Administrator",Support,Bangkok,2024-03-07,2024-12-15,46437
+279,"Philip Ellis",Female,1963-11-20,"DevOps Engineer",Finance,Hatyai,2022-04-06,,74697
+280,"Robert Harper",Female,1986-01-20,"UX/UI Designer",Finance,Hatyai,2023-12-25,2025-04-01,49384
+281,"John Reese",Male,1989-02-17,"Mobile Developer",HR,"Khon Kaen",2023-06-24,2025-05-10,39612
+282,"Charles Castro",Male,1989-07-15,"Network Engineer",Marketing,"Khon Kaen",2024-01-01,,86307
+283,"John Flores",Female,1991-12-09,"Data Scientist",HR,Hatyai,2022-12-13,,45999
+284,"Madison Swanson",Female,1986-02-28,"Technical Support",IT,"Chiang Mai",2022-10-01,,112069
+285,"Ricardo Sandoval",Female,1970-12-31,"Network Engineer",Finance,"Khon Kaen",2021-10-28,2025-05-24,133965
+286,"Catherine Brooks",Female,1969-03-08,"Database Administrator",Operations,Bangkok,2022-11-20,2024-11-30,58688
+287,"Cheryl Johnson",Female,1964-01-26,"Technical Support",Finance,"Khon Kaen",2024-03-20,,115654
+288,"Traci Zimmerman",Female,1964-05-06,"AI Engineer",IT,Bangkok,2021-11-03,2024-09-15,98870
+289,"Kelly Forbes",Female,1970-03-12,"Cloud Architect",IT,"Chiang Mai",2022-06-27,2025-08-21,45447
+290,"Walter Brown",Female,2003-10-28,"Mobile Developer",Operations,"Chiang Mai",2023-05-24,2025-02-18,60175
+291,"Timothy Mccann",Female,1973-09-28,"Network Engineer",Finance,Bangkok,2023-12-08,,30219
+292,"Joseph Cook",Male,1967-08-30,"Cybersecurity Specialist",Finance,Hatyai,2022-06-11,2025-06-23,95698
+293,"Danny Gould PhD",Female,1992-12-13,"Frontend Developer",Support,"Khon Kaen",2022-02-01,2025-07-25,64954
+294,"Kylie Garcia",Male,1992-10-28,"AI Engineer",HR,"Chiang Mai",2022-06-08,2025-02-14,139662
+295,"Martha Clayton",Female,1982-01-04,"Software Engineer",Engineering,"Khon Kaen",2022-09-12,2024-09-01,105507
+296,"Brian Robles",Female,1986-03-22,"Product Manager",Support,"Khon Kaen",2023-10-28,,50846
+297,"David Norris Jr.",Female,1980-07-23,"System Administrator",Engineering,Bangkok,2024-05-19,,60721
+298,"Joseph Bryant",Female,1978-06-27,"System Administrator",Finance,Hatyai,2022-06-26,2024-12-31,101455
+299,"Michael Diaz",Female,2003-01-22,"Mobile Developer",Support,Bangkok,2024-03-08,,149167
+300,"Christopher Salazar",Female,2000-02-25,"Frontend Developer",Finance,Bangkok,2022-01-24,,34359
+301,"Kenneth Richard",Male,1999-08-24,"UX/UI Designer",Finance,Hatyai,2023-08-28,2025-07-02,47606
+302,"Matthew Wong",Male,1970-07-23,"Data Scientist",Finance,"Khon Kaen",2023-11-01,,110997
+303,"James Miller",Male,1975-06-01,"Cloud Architect",Marketing,"Chiang Mai",2024-03-17,,145678
+304,"John Mata",Male,1970-10-18,"Cloud Architect",Operations,"Khon Kaen",2022-07-29,,30275
+305,"Kenneth Hardy",Male,1964-09-19,"Backend Developer",Operations,Bangkok,2023-05-28,,133348
+306,"Joanna Walters",Female,1977-01-13,"Technical Support",Engineering,Hatyai,2022-08-20,2025-08-19,113487
+307,"Brandi Green",Female,2005-09-24,"Cloud Architect",Support,Bangkok,2022-01-12,2025-08-05,70042
+308,"Sara Anderson",Female,1980-03-10,"Software Engineer",IT,"Khon Kaen",2022-03-11,2025-06-04,149400
+309,"Troy Mueller",Female,1987-04-08,"Mobile Developer",Operations,"Khon Kaen",2022-02-22,2025-01-03,105399
+310,"John Parrish",Male,2000-05-30,"Data Scientist",Support,"Khon Kaen",2021-10-01,2025-02-14,71427
+311,"Kelly Arellano DVM",Male,1996-02-08,"UX/UI Designer",Finance,"Khon Kaen",2022-04-26,2024-09-30,94260
+312,"Andrea Johnson",Female,1974-11-26,"Cybersecurity Specialist",Finance,Bangkok,2024-01-08,,129675
+313,"Emily Ramirez",Male,2002-02-01,"AI Engineer",Finance,"Chiang Mai",2022-04-11,2025-06-22,63483
+314,"Michael Vargas",Male,1978-10-24,"Technical Support",Engineering,"Chiang Mai",2023-11-06,2024-11-20,31265
+315,"Anthony Lynch",Female,1991-05-12,"Cybersecurity Specialist",Support,Hatyai,2022-07-03,,104796
+316,"Don Johnson",Female,1966-02-07,"Software Engineer",IT,"Chiang Mai",2022-05-12,,145839
+317,"Ian Cooper",Male,1976-03-29,"UX/UI Designer",Marketing,Bangkok,2023-10-06,,62194
+318,"Amy Rocha",Male,1974-01-18,"Cloud Architect",Engineering,"Chiang Mai",2023-12-16,2024-10-15,36325
+319,"Russell Palmer",Male,2001-10-30,"Database Administrator",Operations,Hatyai,2022-10-12,2025-05-08,137918
+320,"Steven Lopez",Male,1994-07-24,"UX/UI Designer",HR,"Khon Kaen",2022-02-13,2025-06-02,125103
+321,"Christina Johnson",Male,1981-07-07,"Backend Developer",Operations,"Khon Kaen",2023-09-14,,128588
+322,"Timothy Olson",Female,1992-05-21,"Technical Support",Operations,Bangkok,2022-11-28,,78544
+323,"Deborah Harris",Female,1974-09-23,"Product Manager",Operations,Bangkok,2023-02-12,,61078
+324,"Lee Torres",Male,1993-01-14,"Data Scientist",Support,"Khon Kaen",2023-03-21,2024-09-01,70995
+325,"Vicki Ewing",Male,1970-06-25,"Network Engineer",IT,"Khon Kaen",2024-07-10,,87681
+326,"James Sanchez",Female,1970-06-29,"Software Engineer",Finance,Hatyai,2023-07-07,2025-02-13,46592
+327,"Gregory Lam",Female,1971-04-19,"Software Engineer",Engineering,"Chiang Mai",2022-04-24,,113101
+328,"Francisco Sullivan",Male,1985-10-04,"Technical Support",Support,"Khon Kaen",2021-12-01,,144687
+329,"Donald Fleming",Male,1973-07-19,"System Administrator",Operations,Bangkok,2022-07-12,,142484
+330,"Veronica Phillips",Female,2000-06-18,"Full Stack Developer",Finance,"Khon Kaen",2022-10-11,2025-04-01,109273
+331,"Holly Kelly",Male,1995-07-13,"Database Administrator",HR,Hatyai,2022-03-01,,122156
+332,"Keith Perry",Female,1994-02-19,"Cloud Architect",Finance,"Chiang Mai",2023-03-04,2025-03-11,107042
+333,"Melissa Francis",Female,1972-02-25,"Cybersecurity Specialist",IT,"Chiang Mai",2021-11-04,,144647
+334,"Christopher Lopez",Female,1964-10-28,"AI Engineer",Marketing,"Khon Kaen",2024-07-22,2025-06-04,55735
+335,"Beth Dixon",Male,1970-01-07,"Product Manager",Engineering,Bangkok,2021-12-16,2024-11-08,91177
+336,"Kristopher Wilson",Male,1993-03-29,"Cybersecurity Specialist",Engineering,"Khon Kaen",2024-04-01,,58215
+337,"Crystal Newman",Female,1990-02-13,"Database Administrator",Support,"Chiang Mai",2021-12-20,2025-06-24,111978
+338,"Mark Rogers",Male,1975-06-29,"Data Scientist",HR,"Chiang Mai",2023-08-18,2025-03-31,83374
+339,"Ashley Williams",Female,1988-03-27,"Mobile Developer",IT,"Khon Kaen",2022-01-25,2025-01-28,39508
+340,"Robert James",Male,2000-03-17,"Software Engineer",Operations,"Chiang Mai",2022-06-23,,141438
+341,"Charles Wallace",Female,1965-09-04,"Network Engineer",Engineering,Bangkok,2021-10-23,,148735
+342,"Mrs. Sally Cameron",Female,1991-03-25,"Network Engineer",Operations,"Chiang Mai",2024-02-19,,101687
+343,"Victor Baker",Female,2004-09-14,"Network Engineer",Operations,Bangkok,2023-09-27,,126429
+344,"Tiffany Murphy",Male,1988-12-10,"Technical Support",Engineering,"Chiang Mai",2024-07-11,,82340
+345,"Jose Park",Female,1984-03-14,"Data Scientist",Finance,Hatyai,2022-07-31,2024-09-19,47528
+346,"Jeanne Barnes",Male,1998-08-16,"UX/UI Designer",Marketing,"Khon Kaen",2021-10-22,,51775
+347,"Kenneth Castro",Female,1983-06-04,"Technical Support",Finance,"Chiang Mai",2022-04-12,2024-09-30,140817
+348,"Erika Burton",Female,1977-05-15,"DevOps Engineer",HR,Hatyai,2022-12-03,2025-02-12,90245
+349,"Karen Hernandez",Female,1969-11-26,"Full Stack Developer",Finance,"Chiang Mai",2023-02-04,,123691
+350,"Julie Oconnor",Male,1985-09-05,"Network Engineer",Support,"Khon Kaen",2021-11-01,2025-03-23,64759
